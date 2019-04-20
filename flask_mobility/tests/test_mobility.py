@@ -1,7 +1,7 @@
 import unittest
 
 from flask import Flask, render_template_string
-from flask.ext.mobility import Mobility
+from flask_mobility import Mobility
 
 
 class MobilityTestCase(unittest.TestCase):

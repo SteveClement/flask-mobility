@@ -21,10 +21,10 @@ def get_version():
 setup(
     name='Flask-Mobility',
     version=get_version(),
-    url='http://github.com/rehandalal/flask-mobility/',
+    url='http://github.com/SteveClement/flask-mobility/',
     license='BSD',
-    author='Rehan Dalal',
-    author_email='rehan@meet-rehan.com',
+    author='Steve Clement',
+    author_email='steve@localhost.lu',
     description='A Flask extension to simplify building mobile-friendly sites.',
     long_description=open(os.path.join(ROOT, 'README.rst')).read(),
     packages=['flask_mobility'],

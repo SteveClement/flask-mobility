@@ -1,8 +1,8 @@
 import unittest
 
 from flask import Flask, render_template_string
-from flask.ext.mobility import Mobility
-from flask.ext.mobility.decorators import mobile_template, mobilized
+from flask_mobility import Mobility
+from flask_mobility.decorators import mobile_template, mobilized
 
 
 class DecoratorsTestCase(unittest.TestCase):
