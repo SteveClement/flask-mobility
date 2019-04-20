@@ -8,8 +8,8 @@ modifies the ``request`` object accordingly.
 
 Decorators are provided to make mobilizing views easier.
 
-.. image:: https://api.travis-ci.org/rehandalal/flask-mobility.png
-   :target: https://travis-ci.org/rehandalal/flask-mobility/
+.. image:: https://api.travis-ci.org/SteveClement/flask-mobility.png
+   :target: https://travis-ci.org/SteveClement/flask-mobility/
 
 
 Documentation
